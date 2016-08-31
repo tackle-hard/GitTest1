@@ -3,6 +3,6 @@ import java.util.*;
 publi class HelloWorld {
 	public static void main(String[] args)
 		{
-			System.out.println("Hello bhai jaan")
+			System.out.println("Hello bhai jaan part 2")
 		}
 }
